@@ -12,13 +12,7 @@ sites:
     __dangerous__insecure: true
   - name: DSMTCP
     check: "tcp-ping"
-    url: [2409:8a00:24c3:8a90:211:32ff:fe12:3456]
-    ipv6: true
-    port: 5443
-  - name: DSMTCPDomain
-    check: "tcp-ping"
-    url: https://dsm.klib.cn
-    __dangerous__insecure: true
+    url: 2409:8a00:24c3:8a90:211:32ff:fe12:3456
     ipv6: true
     port: 5443
   - name: Webdav

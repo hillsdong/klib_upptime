@@ -4,19 +4,19 @@
     "url": "https://dsmcf.klib.cn",
     "icon": "https://icons.duckduckgo.com/ip3/dsmcf.klib.cn.ico",
     "slug": "dsm",
-    "status": "down",
-    "uptime": "7.70%",
-    "uptimeDay": "7.70%",
-    "uptimeWeek": "7.70%",
-    "uptimeMonth": "7.70%",
-    "uptimeYear": "7.70%",
-    "time": 783,
-    "timeDay": 783,
-    "timeWeek": 783,
-    "timeMonth": 783,
-    "timeYear": 783,
+    "status": "up",
+    "uptime": "7.66%",
+    "uptimeDay": "7.66%",
+    "uptimeWeek": "7.66%",
+    "uptimeMonth": "7.66%",
+    "uptimeYear": "7.66%",
+    "time": 940,
+    "timeDay": 940,
+    "timeWeek": 940,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-12-13": 812,
+      "2023-12-13": 821,
       "2023-12-12": 487
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 317,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2023-12-13": 921,
+      "2023-12-13": 929,
       "2023-12-12": 487
     }
   }

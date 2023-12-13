@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsm.klib.cn.ico",
     "slug": "dsm",
     "status": "down",
-    "uptime": "5.69%",
-    "uptimeDay": "5.69%",
-    "uptimeWeek": "5.69%",
-    "uptimeMonth": "5.69%",
-    "uptimeYear": "5.69%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-12": 0
+      "2023-12-13": 8,
+      "2023-12-12": 487
     }
   },
   {
@@ -36,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-12": 0
+      "2023-12-13": 8,
+      "2023-12-12": 487
     }
   },
   {
@@ -50,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 139,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   }
 ]

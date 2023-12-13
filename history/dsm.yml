@@ -1,7 +1,7 @@
-url: https://dsm.klib.cn:5443
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-13T06:36:10.265Z
+url: https://dsmcf.klib.cn
+status: up
+code: 200
+responseTime: 906
+lastUpdated: 2023-12-13T13:32:00.005Z
 startTime: 2023-12-12T15:52:54.703Z
 generator: Upptime <https://github.com/upptime/upptime>

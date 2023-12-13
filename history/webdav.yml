@@ -1,7 +1,7 @@
-url: https://webdav.klib.cn:5443
+url: https://webdavcf.klib.cn
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-13T13:32:08.774Z
+code: 522
+responseTime: 317
+lastUpdated: 2023-12-13T15:20:25.542Z
 startTime: 2023-12-12T15:52:58.435Z
 generator: Upptime <https://github.com/upptime/upptime>

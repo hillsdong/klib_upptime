@@ -16,8 +16,70 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 344,
+      "2023-12-13": 386,
       "2023-12-12": 487
+    }
+  },
+  {
+    "name": "DSMIPV6",
+    "url": "https://[2409:8a00:24c3:8a90:211:32ff:fe12:3456]:5443",
+    "icon": "https://icons.duckduckgo.com/ip3/2409:8a00:24c3:8a90:211:32ff:fe12:3456.ico",
+    "slug": "dsmipv-6",
+    "status": "down",
+    "uptime": "1.75%",
+    "uptimeDay": "1.75%",
+    "uptimeWeek": "1.75%",
+    "uptimeMonth": "1.75%",
+    "uptimeYear": "1.75%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-13": 0
+    }
+  },
+  {
+    "name": "DSMTCP",
+    "url": [
+      "2409:8a00:24c3:8a90:211:32ff:fe12:3456"
+    ],
+    "icon": "",
+    "slug": "dsmtcp",
+    "status": "down",
+    "uptime": "7.91%",
+    "uptimeDay": "7.91%",
+    "uptimeWeek": "7.91%",
+    "uptimeMonth": "7.91%",
+    "uptimeYear": "7.91%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-13": 0
+    }
+  },
+  {
+    "name": "DSMTCPDomain",
+    "url": "https://dsm.klib.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/dsm.klib.cn.ico",
+    "slug": "dsmtcp-domain",
+    "status": "down",
+    "uptime": "5.27%",
+    "uptimeDay": "5.27%",
+    "uptimeWeek": "5.27%",
+    "uptimeMonth": "5.27%",
+    "uptimeYear": "5.27%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-13": 0
     }
   },
   {
@@ -37,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 344,
+      "2023-12-13": 386,
       "2023-12-12": 487
     }
   },
@@ -52,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   }
 ]

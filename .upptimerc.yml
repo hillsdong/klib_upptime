@@ -4,17 +4,9 @@ repo: klib_upptime # The name of this repository
 
 sites:
   - name: DSM
-    url: https://dsm.klib.cn:5443
-    ipv6: true
-    __dangerous__insecure: true
-  - name: DSMIPV6
-    url: https://[2409:8a00:24c3:8a90:211:32ff:fe12:3456]:5443
-    __dangerous__insecure: true
-  - name: DSMTCP
-    check: "tcp-ping"
-    url: 2409:8a00:24c3:8a90:211:32ff:fe12:3456
-    ipv6: true
-    port: 5443
+    url: https://dsmcf.klib.cn
+  - name: DSM2
+    url: https://dsmcf2.klib.cn
   - name: Webdav
     url: https://webdav.klib.cn:5443
   - name: Wikipedia

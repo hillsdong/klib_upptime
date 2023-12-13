@@ -1,63 +1,43 @@
 [
   {
     "name": "DSM",
-    "url": "https://dsm.klib.cn:5443",
-    "icon": "https://icons.duckduckgo.com/ip3/dsm.klib.cn.ico",
+    "url": "https://dsmcf.klib.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/dsmcf.klib.cn.ico",
     "slug": "dsm",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 906,
+    "timeDay": 906,
+    "timeWeek": 906,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2023-12-13": 396,
+      "2023-12-13": 812,
       "2023-12-12": 487
     }
   },
   {
-    "name": "DSMIPV6",
-    "url": "https://[2409:8a00:24c3:8a90:211:32ff:fe12:3456]:5443",
-    "icon": "https://icons.duckduckgo.com/ip3/2409:8a00:24c3:8a90:211:32ff:fe12:3456.ico",
-    "slug": "dsmipv-6",
+    "name": "DSM2",
+    "url": "https://dsmcf2.klib.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/dsmcf2.klib.cn.ico",
+    "slug": "dsm-2",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "32.03%",
+    "uptimeDay": "32.03%",
+    "uptimeWeek": "32.03%",
+    "uptimeMonth": "32.03%",
+    "uptimeYear": "32.03%",
+    "time": 1723,
+    "timeDay": 1723,
+    "timeWeek": 1723,
+    "timeMonth": 1723,
+    "timeYear": 1723,
     "dailyMinutesDown": {
-      "2023-12-13": 11
-    }
-  },
-  {
-    "name": "DSMTCP",
-    "url": "2409:8a00:24c3:8a90:211:32ff:fe12:3456",
-    "icon": "https://icons.duckduckgo.com/ip3/8a00.ico",
-    "slug": "dsmtcp",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-13": 11
+      "2023-12-13": 0
     }
   },
   {
@@ -77,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 396,
+      "2023-12-13": 812,
       "2023-12-12": 487
     }
   },
@@ -92,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 152,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   }
 ]

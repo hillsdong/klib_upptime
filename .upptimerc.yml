@@ -5,12 +5,8 @@ repo: klib_upptime # The name of this repository
 sites:
   - name: DSM
     url: https://dsmcf.klib.cn
-  - name: DSM2
-    url: https://dsmcf2.klib.cn
   - name: Webdav
-    url: https://webdav.klib.cn:5443
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://webdavcf.klib.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

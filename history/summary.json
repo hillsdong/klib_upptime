@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dsmcf.klib.cn.ico",
     "slug": "dsm",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.48%",
-    "time": 2882,
-    "timeDay": 1351,
-    "timeWeek": 1903,
-    "timeMonth": 1610,
-    "timeYear": 2882,
+    "uptimeYear": "92.50%",
+    "time": 2878,
+    "timeDay": 993,
+    "timeWeek": 1678,
+    "timeMonth": 1607,
+    "timeYear": 2878,
     "dailyMinutesDown": {
       "2024-11-09": 180,
       "2024-11-08": 1440,
@@ -51,8 +51,7 @@
       "2024-02-13": 64,
       "2023-12-20": 1169,
       "2023-12-18": 182,
-      "2023-12-13": 812,
-      "2023-12-12": 487
+      "2023-12-13": 812
     }
   },
   {
@@ -61,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdavcf.klib.cn.ico",
     "slug": "webdav",
     "status": "up",
-    "uptime": "92.36%",
+    "uptime": "92.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.36%",
-    "time": 2626,
-    "timeDay": 1269,
-    "timeWeek": 1882,
+    "uptimeYear": "92.38%",
+    "time": 2622,
+    "timeDay": 899,
+    "timeWeek": 1802,
     "timeMonth": 1535,
-    "timeYear": 2626,
+    "timeYear": 2622,
     "dailyMinutesDown": {
       "2024-11-09": 180,
       "2024-11-08": 1440,
@@ -107,8 +106,7 @@
       "2024-02-13": 63,
       "2023-12-20": 1168,
       "2023-12-18": 175,
-      "2023-12-13": 1412,
-      "2023-12-12": 487
+      "2023-12-13": 1412
     }
   }
 ]
